@@ -1117,7 +1117,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2017-08-15T18:16:52+00:00"
+            "time": "2017-08-15 18:16:52"
         },
         {
             "name": "drupal/config_direct_save",
@@ -1700,7 +1700,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://ftp.drupal.org/files/projects/simple_block-8.x-1.0-beta1.zip",
-                "reference": null,
+                "reference": "8.x-1.0-beta1",
                 "shasum": "3a3555e580993ee1600b6e2eb01ab481ff8d9caa"
             },
             "require": {
